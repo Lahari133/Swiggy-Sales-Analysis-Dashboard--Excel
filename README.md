@@ -151,6 +151,19 @@ Swiggy-Sales-Analysis-Excel/
 ```
 
 ---
+## 📷 Dashboard Preview
+
+### Dashboard 1 – Sales Overview
+
+![Sales Overview](screenshots/dashboard-1.png)
+
+### Dashboard 2 – Location & Restaurant Analysis
+
+![Location & Restaurant Analysis](screenshots/dashboard-2.png)
+
+### Dashboard 3 – Customer & Sales Analysis
+
+![Customer & Sales Analysis](screenshots/dashboard-3.png)
 
 ## 🚀 Skills Demonstrated
 
